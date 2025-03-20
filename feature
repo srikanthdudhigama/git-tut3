@@ -1,1 +1,2 @@
-conflit 2
+
+>>>>>>> conflict
